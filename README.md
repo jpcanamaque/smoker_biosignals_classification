@@ -11,7 +11,7 @@ Scientists are working on predictive models with smoking status as the predictio
 
 [HERE](/assets/SmokerClassification.pdf)
 
-[![Presentation Video](/assets/thumbnail.png)](https://www.youtube.com/watch?v=ECzym42i-3w)
+[![Presentation Video](/assets/thumbnail.PNG)](https://www.youtube.com/watch?v=ECzym42i-3w)
 
 ## Data Definition
 
